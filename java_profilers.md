@@ -1,6 +1,6 @@
 # Honest profiler vs Async profiler
 
-|   | Honest profiler Async profiler  |   |
+|   | Honest profiler |   Async profiler  |
 | ------------ | ------------ | ------------ |
 | 应用项目  |  java |   |
 |  数据采样范围 | java  |  Java + native, JVM and even kernel函数 |
